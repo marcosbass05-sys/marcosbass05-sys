@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcos Costa
+# 👨🏽‍💻 Marcos Costa
 
 **`Desenvolvedor Front-end`**
 
